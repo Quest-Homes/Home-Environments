@@ -1,0 +1,59 @@
+
+Package Name: custom_home.REPLACE_EnvFileName
+
+---------------------------------------------------------------------------------------	
+	
+	
+Summary: 
+Custom Quest Home Environment
+
+---------------------------------------------------------------------------------------	
+
+Discription:
+
+### Download and install
+Click to install the custom home onto your device below. You can select which existing environment you want to replace. Choose the `Silent` variant to remove the sound. 
+
+Click any of the below to install:
+
+>###### [Classic Home](https://github.com/Quest-Homes/Home-Environments/raw/main/REPLACE_EnvFileName/com.oculus.environment.prod.REPLACE_EnvFileName.ClassicHome.apk)
+
+>###### [Classic Home (Silent)](https://github.com/Quest-Homes/Home-Environments/raw/main/REPLACE_EnvFileName/com.oculus.environment.prod.REPLACE_EnvFileName.ClassicHome_Silent.apk)
+
+>###### [Cyber City](https://github.com/Quest-Homes/Home-Environments/raw/main/REPLACE_EnvFileName/com.oculus.environment.prod.REPLACE_EnvFileName.CyberCity.apk)
+
+>###### [Cyber City ( Silent )](https://github.com/Quest-Homes/Home-Environments/raw/main/REPLACE_EnvFileName/com.oculus.environment.prod.REPLACE_EnvFileName.CyberCity_Silent.apk)
+
+>###### [Space Station](https://github.com/Quest-Homes/Home-Environments/raw/main/REPLACE_EnvFileName/com.oculus.environment.prod.REPLACE_EnvFileName.SpaceStation.apk)
+
+>###### [Space Station (Silent)](https://github.com/Quest-Homes/Home-Environments/raw/main/REPLACE_EnvFileName/com.oculus.environment.prod.REPLACE_EnvFileName.SpaceStation_Silent.apk)
+
+>###### [Winter Lodge](https://github.com/Quest-Homes/Home-Environments/raw/main/REPLACE_EnvFileName/com.oculus.environment.prod.REPLACE_EnvFileName.WinterLodge.apk)
+
+>###### [Winter Lodge (Silent)](https://github.com/Quest-Homes/Home-Environments/raw/main/REPLACE_EnvFileName/com.oculus.environment.prod.REPLACE_EnvFileName.WinterLodge_Silent.apk)
+
+
+
+### Customize and create your own home environment:	
+Join our Discord for frequently asked question and tutorials how to change the audio and how make your own environments.
+https://discord.gg/ayeMJmAujk
+
+>~
+### Help us:
+We need between two hours and several days (sometimes weeks) to create an environment.
+We would be happy if you leave us a review to make it easier for other users to find good environments quickly.
+
+If you find any bugs or environments that don't work at all, please leave us a comment or write us in our Discord.
+We will then take care of fixing the bugs.
+
+### Credits: Elin-Crusty Corp ♥
+
+> Source files: 
+
+
+---------------------------------------------------------------------------------------	
+
+Search Tags: customhomes
+
+
+https://youtu.be/Mr0yPm7a9kA
