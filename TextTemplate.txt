@@ -5,7 +5,7 @@ Package Name: custom_home.REPLACE_EnvFileName
 	
 	
 Summary: 
-Custom Quest Home Environment
+Custom Quest Home Environment - find us on discord and get involved!
 
 ---------------------------------------------------------------------------------------	
 
@@ -36,9 +36,10 @@ Click any of the below to install:
 
 ### Customize and create your own home environment:	
 Join our Discord for frequently asked question and tutorials how to change the audio and how make your own environments.
+
 https://discord.gg/ayeMJmAujk
 
->~
+
 ### Help us:
 We need between two hours and several days (sometimes weeks) to create an environment.
 We would be happy if you leave us a review to make it easier for other users to find good environments quickly.
@@ -46,14 +47,16 @@ We would be happy if you leave us a review to make it easier for other users to 
 If you find any bugs or environments that don't work at all, please leave us a comment or write us in our Discord.
 We will then take care of fixing the bugs.
 
-### Credits: Elin-Crusty Corp ♥
+### Environment Maker: Elin-Crusty Corp ♥
 
-> Source files: 
+> Credits:
 
 
+### FAQ:
+When you get an error [uninstall the original app](https://github.com/Quest-Homes/Home-Environments/blob/main/Uninstall.jpg) and try again.
+	
+	
 ---------------------------------------------------------------------------------------	
 
-Search Tags: customhomes
+Search Tags: customhome
 
-
-https://youtu.be/Mr0yPm7a9kA
