@@ -39,6 +39,8 @@ Join our Discord for frequently asked question and tutorials how to change the a
 
 https://discord.gg/ayeMJmAujk
 
+### FAQ:
+When you get an error [uninstall the original app](https://github.com/Quest-Homes/Home-Environments/blob/main/Uninstall.jpg) and try again.
 
 ### Help us:
 We need between two hours and several days (sometimes weeks) to create an environment.
@@ -49,11 +51,7 @@ We will then take care of fixing the bugs.
 
 ### Environment Maker: Elin-Crusty Corp ♥
 
-> Credits:
-
-
-### FAQ:
-When you get an error [uninstall the original app](https://github.com/Quest-Homes/Home-Environments/blob/main/Uninstall.jpg) and try again.
+> Credits:	
 	
 	
 ---------------------------------------------------------------------------------------	
