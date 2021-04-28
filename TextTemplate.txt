@@ -1,5 +1,11 @@
 
-Package Name: custom_home.REPLACE_EnvFileName
+App Titel: 
+Custom Home: Star Wars JediCouncil
+
+---------------------------------------------------------------------------------------		
+	
+Package Name: 
+custom_home.REPLACE_EnvFileName
 
 ---------------------------------------------------------------------------------------	
 	
@@ -40,8 +46,10 @@ Join our Discord for frequently asked question and tutorials how to change the a
 https://discord.gg/ayeMJmAujk
 
 ### FAQ:
-When you get an error [uninstall the original app](https://github.com/Quest-Homes/Home-Environments/blob/main/Uninstall.jpg) and try again.
-
+When you get an error [uninstall the original environment](https://github.com/Quest-Homes/Home-Environments/blob/main/Uninstall.jpg) and try again.
+	
+Will I get banned? Very Unlikely! If you want to be 100% sure then ask your lawyer.
+	
 ### Help us:
 We need between two hours and several days (sometimes weeks) to create an environment.
 We would be happy if you leave us a review to make it easier for other users to find good environments quickly.
