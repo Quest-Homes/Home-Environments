@@ -1,6 +1,6 @@
 
 App Titel: 
-Custom Home: Winter Loft
+Custom Home: Matrix - Loading Void
 
 ---------------------------------------------------------------------------------------		
 	
@@ -46,7 +46,13 @@ Join our Discord for frequently asked question and tutorials how to change the a
 https://discord.gg/ayeMJmAujk
 
 ### FAQ:
-When you get an error [uninstall the original environment](https://github.com/Quest-Homes/Home-Environments/blob/main/Uninstall.jpg) and try again.
+Some Environments are only tested with the Quest 2. Use at your own risk on Quest 1.
+	
+With Quest firmware v25 there is a bug that results in a black void or *ShellEnv* crashes.
+
+Uninstall or install  [this](https://sidequestvr.com/app/3889/custom-home-canyon-enviroment-panorama-360-image) environment and reboot your Quest to fix this issue.
+
+When you get this error: "INSTALL_FAILED_UPDATE_INCOMPATIBLE" [uninstall the original environment](https://github.com/Quest-Homes/Home-Environments/blob/main/Uninstall.jpg) and try again.
 	
 Will I get banned? Very Unlikely! If you want to be 100% sure then ask your lawyer.
 	
