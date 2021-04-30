@@ -1,11 +1,11 @@
 
 App Titel: 
-Custom Home: Matrix - Loading Void
+Custom Home: Env_NAME
 
 ---------------------------------------------------------------------------------------		
 	
 Package Name: 
-custom_home.REPLACE_EnvFileName
+custom_home.REPLACE
 
 ---------------------------------------------------------------------------------------	
 	
@@ -22,28 +22,28 @@ Click to install the custom home onto your device below. You can select which ex
 
 Click any of the below to install:
 
->###### [Classic Home](https://github.com/Quest-Homes/Home-Environments/raw/main/REPLACE_EnvFileName/com.oculus.environment.prod.REPLACE_EnvFileName.ClassicHome.apk)
+>###### [Classic Home](https://github.com/Quest-Homes/Home-Environments/raw/main/REPLACE/com.oculus.environment.prod.REPLACE.ClassicHome.apk)
 
->###### [Classic Home (Silent)](https://github.com/Quest-Homes/Home-Environments/raw/main/REPLACE_EnvFileName/com.oculus.environment.prod.REPLACE_EnvFileName.ClassicHome_Silent.apk)
+>###### [Classic Home (Silent)](https://github.com/Quest-Homes/Home-Environments/raw/main/REPLACE/com.oculus.environment.prod.REPLACE.ClassicHome_Silent.apk)
 
->###### [Cyber City](https://github.com/Quest-Homes/Home-Environments/raw/main/REPLACE_EnvFileName/com.oculus.environment.prod.REPLACE_EnvFileName.CyberCity.apk)
+>###### [Cyber City](https://github.com/Quest-Homes/Home-Environments/raw/main/REPLACE/com.oculus.environment.prod.REPLACE.CyberCity.apk)
 
->###### [Cyber City ( Silent )](https://github.com/Quest-Homes/Home-Environments/raw/main/REPLACE_EnvFileName/com.oculus.environment.prod.REPLACE_EnvFileName.CyberCity_Silent.apk)
+>###### [Cyber City ( Silent )](https://github.com/Quest-Homes/Home-Environments/raw/main/REPLACE/com.oculus.environment.prod.REPLACE.CyberCity_Silent.apk)
 
->###### [Space Station](https://github.com/Quest-Homes/Home-Environments/raw/main/REPLACE_EnvFileName/com.oculus.environment.prod.REPLACE_EnvFileName.SpaceStation.apk)
+>###### [Space Station](https://github.com/Quest-Homes/Home-Environments/raw/main/REPLACE/com.oculus.environment.prod.REPLACE.SpaceStation.apk)
 
->###### [Space Station (Silent)](https://github.com/Quest-Homes/Home-Environments/raw/main/REPLACE_EnvFileName/com.oculus.environment.prod.REPLACE_EnvFileName.SpaceStation_Silent.apk)
+>###### [Space Station (Silent)](https://github.com/Quest-Homes/Home-Environments/raw/main/REPLACE/com.oculus.environment.prod.REPLACE.SpaceStation_Silent.apk)
 
->###### [Winter Lodge](https://github.com/Quest-Homes/Home-Environments/raw/main/REPLACE_EnvFileName/com.oculus.environment.prod.REPLACE_EnvFileName.WinterLodge.apk)
+>###### [Winter Lodge](https://github.com/Quest-Homes/Home-Environments/raw/main/REPLACE/com.oculus.environment.prod.REPLACE.WinterLodge.apk)
 
->###### [Winter Lodge (Silent)](https://github.com/Quest-Homes/Home-Environments/raw/main/REPLACE_EnvFileName/com.oculus.environment.prod.REPLACE_EnvFileName.WinterLodge_Silent.apk)
+>###### [Winter Lodge (Silent)](https://github.com/Quest-Homes/Home-Environments/raw/main/REPLACE/com.oculus.environment.prod.REPLACE.WinterLodge_Silent.apk)
 
 
 
 ### Customize and create your own home environment:	
 Join our Discord for frequently asked question and tutorials how to change the audio and how make your own environments.
 
-https://discord.gg/ayeMJmAujk
+https://discord.gg/pagYfnF
 
 ### FAQ:
 Some Environments are only tested with the Quest 2. Use at your own risk on Quest 1.
@@ -63,7 +63,7 @@ We would be happy if you leave us a review to make it easier for other users to 
 If you find any bugs or environments that don't work at all, please leave us a comment or write us in our Discord.
 We will then take care of fixing the bugs.
 
-### Environment Maker: Elin-Crusty Corp ♥
+> Environment Maker: Elin-Crusty Corp ♥
 
 > Credits:	
 	
