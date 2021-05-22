@@ -1,0 +1,75 @@
+
+App Titel: 
+Custom Home: Replace_EnvName
+	
+---------------------------------------------------------------------------------------		
+	
+Package Name: 
+custom_home.Replace_EnvName
+
+---------------------------------------------------------------------------------------	
+	
+	
+Summary: 
+Custom Quest Home Environment - find us on discord and get involved!
+
+---------------------------------------------------------------------------------------	
+
+Discription:
+
+### Download and install
+Click to install the custom home onto your device below. You can select which existing environment you want to replace. Choose the `Silent` variant to remove the sound. 
+
+Click any of the below to install:
+
+>###### [Classic Home](https://github.com/Quest-Homes/Home-Environments/raw/main/Replace_EnvName/com.oculus.environment.prod.Replace_EnvName.ClassicHome.apk)
+
+>###### [Classic Home (Silent)](https://github.com/Quest-Homes/Home-Environments/raw/main/Replace_EnvName/com.oculus.environment.prod.Replace_EnvName.ClassicHome_Silent.apk)
+
+>###### [Cyber City](https://github.com/Quest-Homes/Home-Environments/raw/main/Replace_EnvName/com.oculus.environment.prod.Replace_EnvName.CyberCity.apk)
+
+>###### [Cyber City ( Silent )](https://github.com/Quest-Homes/Home-Environments/raw/main/Replace_EnvName/com.oculus.environment.prod.Replace_EnvName.CyberCity_Silent.apk)
+
+>###### [Space Station](https://github.com/Quest-Homes/Home-Environments/raw/main/Replace_EnvName/com.oculus.environment.prod.Replace_EnvName.SpaceStation.apk)
+
+>###### [Space Station (Silent)](https://github.com/Quest-Homes/Home-Environments/raw/main/Replace_EnvName/com.oculus.environment.prod.Replace_EnvName.SpaceStation_Silent.apk)
+
+>###### [Winter Lodge](https://github.com/Quest-Homes/Home-Environments/raw/main/Replace_EnvName/com.oculus.environment.prod.Replace_EnvName.WinterLodge.apk)
+
+>###### [Winter Lodge (Silent)](https://github.com/Quest-Homes/Home-Environments/raw/main/Replace_EnvName/com.oculus.environment.prod.Replace_EnvName.WinterLodge_Silent.apk)
+
+
+
+### Customize and create your own home environment:	
+Join our Discord for frequently asked question and tutorials how to change the audio and how make your own environments.
+
+https://discord.gg/pagYfnF
+
+### FAQ:
+Some Environments are only tested with the Quest 2. Use at your own risk on Quest 1.
+	
+If you get *ShellEnv* crashes:
+
+Uninstall the environment or install  [this](https://sidequestvr.com/app/3997/custom-home-dark-void) environment and reboot your Quest to fix this issue.
+
+When you get this error: "INSTALL_FAILED_UPDATE_INCOMPATIBLE" [uninstall the original environment](https://github.com/Quest-Homes/Home-Environments/blob/main/Uninstall.jpg) and try again.
+	
+Will I get banned? Very Unlikely! If you want to be 100% sure then ask your lawyer.
+	
+### Help us:
+We need between two hours and several days (sometimes weeks) to create an environment.
+We would be happy if you leave us a review to make it easier for other users to find good environments quickly.
+
+If you find any bugs or environments that don't work at all, please leave us a comment or write us in our Discord.
+We will then take care of fixing the bugs.
+
+> Environment Maker: Elin-Crusty Corp ♥
+
+> Credits:	
+	
+	
+---------------------------------------------------------------------------------------	
+
+Search Tags: customhome
+
+
