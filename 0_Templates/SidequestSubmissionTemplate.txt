@@ -48,6 +48,11 @@ https://discord.gg/pagYfnF
 ### FAQ:
 Some Environments are only tested with the Quest 2. Use at your own risk on Quest 1.
 	
+Quest system software version 25 Intoduced a bug in the environment system.  
+DON'T USE CUSTOM ENVIRONMENTS ON V25!!	
+
+On v27 and up everything is working fine.
+	
 If you get *ShellEnv* crashes:
 
 Uninstall the environment or install  [this](https://sidequestvr.com/app/3997/custom-home-dark-void) environment and reboot your Quest to fix this issue.
