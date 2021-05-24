@@ -72,4 +72,6 @@ We will then take care of fixing the bugs.
 
 Search Tags: customhome
 
+Apk prefix: com.oculus.environment.prod.
+
 
